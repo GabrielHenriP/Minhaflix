@@ -5,12 +5,14 @@ export const Title = styled.h3`
   font-weight: normal;
   font-size: 35px;
   line-height: 1;
-  margin-bottom: 16px;
-  display: inline-block;
-  padding: 20px;
+  margin-bottom: 15px;
+  margin-top:70px;
+  display: block;
+  padding: 10px;
   background: red;
   line-height: 1;
-  border-radius: 4px;
+  border-radius: 10px;
+  text-align: center;
 
   @media (max-width: 800px) {
     font-size: 18px;
@@ -25,6 +27,7 @@ export const ExtraLink = styled.a`
   &:hover,
   &:focus {
     opacity: .5;
+    
   }
   @media (max-width: 800px) {
     display: block;
@@ -50,6 +53,7 @@ export const VideoCardList = styled.ul`
 export const VideoCardGroupContainer = styled.section`
   color: white;
   min-height: 197px;
-  margin-left: 5%;
+  margin-left: 0%;
   margin-bottom: 16px;
+  
 `;

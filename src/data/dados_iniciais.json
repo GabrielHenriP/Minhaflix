@@ -1,55 +1,39 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "titulo": "Física",
+      "link": "https://www.youtube.com/watch?v=pwhXynMIXTc",
+      "cor": "#690aad",
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Onde Estão Todas as Civilizações Inteligentes? (O Paradoxo de Fermi)",
+          "url": "https://www.youtube.com/watch?v=pwhXynMIXTc"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Chernobyl: A História Completa",
+          "url": "https://www.youtube.com/watch?v=DiGqjYkRQ6o"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "O Som Mais Alto da História",
+          "url": "https://www.youtube.com/watch?v=iCSgJ2KEkX4"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "A Revolução do Raio X",
+          "url": "https://www.youtube.com/watch?v=WJwiBpX1QNQ&t=511s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "A Rebeldia dos Elétrons | Desmistificando a Física Quântica #01",
+          "url": "https://www.youtube.com/watch?v=8A8TE5JbqJA&list=PL21g2c3lnZ1D7nl-htMxyFGpB03yvm-Zd"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "* O Acidente que Deu à Luz a Física Quântica | Desmistificando a Física Quântica #01.a",
+          "url": "https://www.youtube.com/watch?v=-BDFVyniENI&list=PL21g2c3lnZ1D7nl-htMxyFGpB03yvm-Zd&index=2"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      "titulo": "Programação",
+      "cor": "#e00000",
       "videos": [
         {
           "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
@@ -74,110 +58,106 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      "titulo": "Entreterimento Youtube",
+      "cor": "#0be687",
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "NILCE PINTORA ATACA NOVAMENTE - Ep. 1472",
+          "url": "https://www.youtube.com/watch?v=cDJQHvZ8TKs"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "NVADIRAM NOSSO QUINTAL! - EP. 1461",
+          "url": "https://www.youtube.com/watch?v=Nx4I8Yh9YFE"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "FREDDIE MERCURY (QUEEN) - Nostalgia",
+          "url": "https://www.youtube.com/watch?v=J6o12jvEljw"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "OS MISTÉRIOS DO ANTIGO EGITO - Nostalgia História",
+          "url": "https://www.youtube.com/watch?v=ebm-fLo9-NA"
+        },
+        {
+          "titulo": "Martin Luther King e Malcolm X | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=PvlU-QHL_8I"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Música",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "The Dø - A Mess Like This / Omen (Live at l’Olympia, Paris)",
+          "url": "https://www.youtube.com/watch?v=LM3fCp6Y8GI"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "The Dø - Trustful Hands",
+          "url": "https://www.youtube.com/watch?v=HNgJPIwg5Mc"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Megadeth - Symphony of Destruction (Studio Version)",
+          "url": "https://www.youtube.com/watch?v=K5jvUXij7nU"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Korn - Falling Away From Me",
+          "url": "https://www.youtube.com/watch?v=VDsaNnQnd7U"
+        },
+        {
+          "titulo": "Axwell Λ Ingrosso - Sun Is Shining (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=nbXgHAzUWB0"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "titulo": "Animes",
+      "cor": "#08bfba",
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "ONE PIECE STAMPEDE Trailer Português DOBRADO (2019)",
+          "url": "https://www.youtube.com/watch?v=r6MINq3BM2s"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Trailer Honesto - Hunter x Hunter - Legendado",
+          "url": "https://www.youtube.com/watch?v=GjjRINviqLg"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Erased Trailer - Boku Dake Ga Inai Machi",
+          "url": "https://www.youtube.com/watch?v=SUKevBJ703o"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Barakamon - Trailer",
+          "url": "https://www.youtube.com/watch?v=1gmN_3kr4wo"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Shingeki No Kyojin 4° Temporada Trailer Legendado PT BR(HD)",
+          "url": "https://www.youtube.com/watch?v=-wPC3AZYJsA"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Séries",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "KINGDOM Trailer Brasileiro LEGENDADO (2019) Netflix Série",
+          "url": "https://www.youtube.com/watch?v=f_sUESbGPko"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "THE WALKING DEAD Season 10 Finale \"Maggie Returns\" Sneak Peek [HD] Norman Reedus, Lauren Cohan",
+          "url": "https://www.youtube.com/watch?v=dhh1xXfJ9G4"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Vikings: Season 6 - Official Clip | Comic Con 2020",
+          "url": "https://www.youtube.com/watch?v=dKf-nmEzecA"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Modern Family Season 11 Trailer (HD) Final Season",
+          "url": "https://www.youtube.com/watch?v=X0lRjbrH-L8"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Trailer Brooklyn Nine-Nine Temporada 6 \"Ação\" (HD)",
+          "url": "https://www.youtube.com/watch?v=1GTVc1pLJKw"
         }
       ]
     }

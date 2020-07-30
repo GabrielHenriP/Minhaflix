@@ -4,7 +4,7 @@ export const VideoCardContainer = styled.a`
   border: 2px solid;
   border-radius: 4px;
   text-decoration: none;
-  overflow: hidden;
+  overflow: visible;
   cursor: pointer;
   color: white;
   flex: 0 0 298px;
@@ -22,10 +22,20 @@ export const VideoCardContainer = styled.a`
   transition: opacity .3s;
   &:hover,
   &:focus {
-    opacity: .5;
+    padding:10px;
+    border: 6px solid;
+    transition:0.5s;
+    width:400px;
+    
   }
   
   &:not(:first-child) {
-    margin-left: 20px;
+    margin-left:-20px;
+  }
+
+  &:not(:hover) {
+    opacity:.8;
   }
 `;
+
+
